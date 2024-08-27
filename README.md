@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on executing cyber security duties such as pentest, audits, and 
 - 📫 How to reach me email issa.samira11@yahoo.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a visual artist in addition to being a fashionista.
+- ⚡ Fun fact:I am addicted to learning
 
 <!---
 Samira112601/Samira112601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
