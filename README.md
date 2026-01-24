@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @Samira112601
-- 👀 I’m interested in becoming a credible cyber secuirty professonial with government clearance.
-- 🌱 I’m currently learning about Linux,SQL,and SIEM tools.
-- 💞️ I’m looking to collaborate on executing cyber security duties such as pentest, audits, and 
-- 📫 How to reach me email issa.samira11@yahoo.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact:I am addicted to learning
-
-<!---
-Samira112601/Samira112601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Cybersecurity professional with CompTIA Security+. Currently pursuing Salesforce Administrator and CompTIA Network+. Interested in risk assessments, asset management, and risk analysis. Experienced with Linux, SQL, and programming fundamentals. I understand the challenges of unreliable and unclean data and believe strong security and governance start with accurate, trustworthy data. Always learning and improving through hands-on labs.
 --->
